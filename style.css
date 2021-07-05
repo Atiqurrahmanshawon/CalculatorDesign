@@ -1,0 +1,27 @@
+div {
+    margin: auto;
+    /* width: 295px;
+    height: 325px; */
+    text-align: center;
+    border-radius: 4px;
+}
+
+.btn {
+    height: 70px;
+    width: 90px;
+    background-color: rgb(20, 4, 4);
+    color: white;
+    text-align: center;
+    margin: 2px 0;
+}
+
+.field {
+    height: 70px;
+    width: 365px;
+}
+
+.container {
+    background-color: rgb(42, 44, 165);
+    height: 448px;
+    width: 380px;
+}
